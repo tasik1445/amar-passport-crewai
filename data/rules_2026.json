@@ -1,0 +1,32 @@
+{
+  "title": "Bangladesh e-Passport guidance data; reviewed 2026-10-24",
+  "last_official_fee_page_update": "2026-07-12",
+  "last_official_instruction_update": "2026-08-03",
+  "currency": "BDT",
+  "vat_included_percent": 15,
+  "inside_bangladesh_only": true,
+  "fees_2026": {
+    "48_pages": {
+      "5_years": {"regular": 4025, "express": 6325, "super_express": 8625},
+      "10_years": {"regular": 5750, "express": 8050, "super_express": 10350}
+    },
+    "64_pages": {
+      "5_years": {"regular": 6325, "express": 8625, "super_express": 12075},
+      "10_years": {"regular": 8050, "express": 10350, "super_express": 13800}
+    }
+  },
+  "notes": {
+    "64_page_availability": "Official notice says distribution of 64-page booklets was temporarily halted from 15 January 2023. No official resumption confirmed by this project as of 2026-10-24; check the portal/passport office before payment.",
+    "senior_validity": "Current application instructions state the over-65 mandatory five-year-only condition was cancelled; do not reject ten-year requests solely because age >65.",
+    "delivery": "Regular: within 15 working days/21 days; Express: within 7 working days/10 days; Super Express: within 2 working days, subject to correct records and enrolment. Not guaranteed travel deadlines.",
+    "vat": "Official published BDT fees already INCLUDE 15% VAT. Do not add VAT a second time."
+  },
+  "sources": {
+    "fees": "https://www.epassport.gov.bd/instructions/passport-fees",
+    "instructions": "https://www.epassport.gov.bd/instructions/instructions",
+    "availability_64": "https://www.epassport.gov.bd/landing/notices/151",
+    "documents": "https://www.epassport.gov.bd/landing/notices/160",
+    "changes": "https://www.epassport.gov.bd/landing/faqs/21",
+    "photos": "https://www.epassport.gov.bd/landing/faqs/4"
+  }
+}

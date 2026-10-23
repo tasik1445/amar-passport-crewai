@@ -1,0 +1,8 @@
+crewai[litellm]>=1.10,<2
+python-dotenv>=1,<2
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+pytest>=8,<10
+# Tool-calling regression workaround: LiteLLM 1.106.x imports MCP 2.x CacheableResult
+# while some CrewAI environments install MCP 1.x.
+litellm==1.105.1

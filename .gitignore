@@ -1,0 +1,22 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local database
+data/*.db
+
+# Generated reports
+outputs/*.md
+
+# IDE files
+.vscode/
+.idea/

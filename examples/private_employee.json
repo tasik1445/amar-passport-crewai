@@ -1,0 +1,11 @@
+{
+  "age": 24,
+  "profession": "private",
+  "requested_pages": 64,
+  "requested_validity": 10,
+  "delivery": "auto",
+  "trip_in_days": 14,
+  "has_nid": true,
+  "has_brc": false,
+  "location": "Dhaka"
+}
